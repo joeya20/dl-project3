@@ -1,4 +1,6 @@
 env/
 TestDataSet/
 AdversarialTestSet1/
+AdversarialTestSet2/
 _MACOSX/
+pred.csv
