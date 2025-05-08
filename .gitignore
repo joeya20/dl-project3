@@ -2,5 +2,7 @@ env/
 TestDataSet/
 AdversarialTestSet1/
 AdversarialTestSet2/
+AdversarialTestSet3/
+AdversarialTestSet4/
 _MACOSX/
 pred.csv
